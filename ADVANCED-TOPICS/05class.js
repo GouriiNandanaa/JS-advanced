@@ -23,3 +23,4 @@ class SuperHero extends Person {
 
 const batman = new SuperHero('Bruce','Lee');
 console.log(batman.sayMyName());
+

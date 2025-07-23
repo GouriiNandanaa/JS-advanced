@@ -64,4 +64,4 @@ let multiplyUsingClosure = function (x) {
 };
 
 let multiplyUsingClosureByTwo = multiplyUsingClosure(2);
-multiplyUsingClosureByTwo(5);
+multiplyUsingClosureByTwo(5);  
